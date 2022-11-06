@@ -1,8 +1,8 @@
 ---
 layout: slides
-title: Υπολογιστές Τσέπης 
+title: Υπολογιστές τσέπης
+caption: Υπολογιστές τσέπης του τύπου raspberry pi και odroid c4
 image_url: /images/hypercard-notes.png
-caption: Υπολογιστές τσέπης του τύπου: Raspberry Pi , Odroid C4 κα.
 slides:
   - raspberrypi
   - odroid-c4
