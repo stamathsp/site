@@ -10,4 +10,5 @@ events:
   - max-language
   - visual-basic-form-designer
   - python
+  - java
 ---
