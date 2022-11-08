@@ -7,7 +7,6 @@ events:
   - max-language
   - basic-language
   - microsoft-basic
-  - max-language
   - visual-basic-form-designer
   - python
   - java
