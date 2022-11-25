@@ -10,4 +10,4 @@ tags:
   - Γλώσσες Προγραμματισμού
 ---
 
-{% include cs-java.md %}
+{% include cs-java-and-vmware.md %}
