@@ -15,4 +15,3 @@ tags:
 ---
 
 {% include bio-james-gosling.md %}
-
