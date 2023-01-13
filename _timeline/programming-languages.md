@@ -7,8 +7,21 @@ events:
   - max-language
   - basic-language
   - microsoft-basic
-  - max-language
   - visual-basic-form-designer
   - python
   - java
+  - smalltalk
+  - pygmalion
+  - card-puncher
+  - pdp11-tty-unix
+  - joss
+  - sketchpad-drafting
+  - squeakos
+  - processing-ide
+  - mit-scratch
+  - lilith-modula
+  - logo-graphics
+  - bbc-micro
+  - vim-ide
+  - kidsim
 ---
